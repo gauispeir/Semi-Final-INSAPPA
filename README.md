@@ -1,2 +1,2 @@
-# Semi-Final-INSAPPA
-system project
+# Inspired-Apparel
+project system
